@@ -2,8 +2,6 @@
 
 Ghost Terminal AI is an interactive, Matrix-themed local AI chat interface powered by **Ollama (Qwen 2.5 7B)** and **Streamlit**. 
 
-![Ghost Terminal Preview](assets/ghost-terminal-preview.png)
-
 ## Key Features
 - **Local AI Engine**: Powered by `qwen2.5:7b-instruct` running locally via Ollama.
 - **Cyberpunk / Matrix UI**: Monospace retro-terminal user interface with customizable theme.
